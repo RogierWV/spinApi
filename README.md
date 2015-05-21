@@ -1,2 +1,0 @@
-# spinApi
-API voor IDP
